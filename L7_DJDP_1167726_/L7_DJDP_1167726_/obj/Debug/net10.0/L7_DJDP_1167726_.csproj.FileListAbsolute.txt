@@ -1,0 +1,14 @@
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\bin\Debug\net10.0\L7_DJDP_1167726_.exe
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\bin\Debug\net10.0\L7_DJDP_1167726_.deps.json
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\bin\Debug\net10.0\L7_DJDP_1167726_.runtimeconfig.json
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\bin\Debug\net10.0\L7_DJDP_1167726_.dll
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\bin\Debug\net10.0\L7_DJDP_1167726_.pdb
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\obj\Debug\net10.0\L7_DJDP_1167726_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\obj\Debug\net10.0\L7_DJDP_1167726_.AssemblyInfoInputs.cache
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\obj\Debug\net10.0\L7_DJDP_1167726_.AssemblyInfo.cs
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\obj\Debug\net10.0\L7_DJDP_1167726_.csproj.CoreCompileInputs.cache
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\obj\Debug\net10.0\L7_DJDP_1167726_.dll
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\obj\Debug\net10.0\refint\L7_DJDP_1167726_.dll
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\obj\Debug\net10.0\L7_DJDP_1167726_.pdb
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\obj\Debug\net10.0\L7_DJDP_1167726_.genruntimeconfig.cache
+C:\Users\Lucrecia De Palacios\source\repos\L7_DJDP_1167726_\L7_DJDP_1167726_\obj\Debug\net10.0\ref\L7_DJDP_1167726_.dll

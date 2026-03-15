@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucrecia De Palacios\\source\\repos\\L7_DJDP_1167726_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F958A26D-F5C7-BD62-CD46-CC2893F413A2}|L7_DJDP_1167726_\\L7_DJDP_1167726_.csproj|c:\\users\\lucrecia de palacios\\source\\repos\\l7_djdp_1167726_\\l7_djdp_1167726_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F958A26D-F5C7-BD62-CD46-CC2893F413A2}|L7_DJDP_1167726_\\L7_DJDP_1167726_.csproj|solutionrelative:l7_djdp_1167726_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucrecia De Palacios\\source\\repos\\L7_DJDP_1167726_\\L7_DJDP_1167726_\\Program.cs",
+              "RelativeDocumentMoniker": "L7_DJDP_1167726_\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucrecia De Palacios\\source\\repos\\L7_DJDP_1167726_\\L7_DJDP_1167726_\\Program.cs",
+              "RelativeToolTip": "L7_DJDP_1167726_\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T04:17:59.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
