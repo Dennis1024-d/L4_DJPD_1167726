@@ -1,0 +1,14 @@
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\bin\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.exe
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\bin\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.deps.json
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\bin\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.runtimeconfig.json
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\bin\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.dll
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\bin\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.pdb
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\obj\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\obj\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\obj\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.AssemblyInfo.cs
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\obj\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\obj\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.dll
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\obj\Debug\net10.0\refint\L8_DJPD_1167726_Ejercicio2.dll
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\obj\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.pdb
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\obj\Debug\net10.0\L8_DJPD_1167726_Ejercicio2.genruntimeconfig.cache
+C:\Users\Lucrecia De Palacios\source\repos\L8_DJPD_1167726_Ejercicio2\L8_DJPD_1167726_Ejercicio2\obj\Debug\net10.0\ref\L8_DJPD_1167726_Ejercicio2.dll
